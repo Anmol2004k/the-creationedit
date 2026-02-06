@@ -28,7 +28,7 @@ const About: React.FC = () => {
               <h2 className="text-4xl md:text-5xl font-black font-heading mb-8 tracking-tighter uppercase">{`WE DON'T JUST CUT CLIPS. WE SCULPT EMOTIONS.`}</h2>
               <div className="space-y-6 text-lg text-white/60 font-light leading-relaxed">
                 <p>
-                  Founded by a collective of filmmakers and tech enthusiasts, <span className="text-white font-medium">{`{TheCreationEdit}`}</span> was born out of a desire to bridge the gap between technical efficiency and artistic integrity.
+                  Founded by a collective of filmmakers and tech enthusiasts, <span className="text-white font-medium">{`{The Creation Edit}`}</span> was born out of a desire to bridge the gap between technical efficiency and artistic integrity.
                 </p>
                 <p>
                   Based in London but working globally, we've partnered with Fortune 500 companies and boutique fashion labels alike. Our approach is minimalist yet meaningful—every frame serves a purpose.
@@ -41,7 +41,7 @@ const About: React.FC = () => {
                   <div className="text-[10px] uppercase tracking-widest text-white/40 font-bold">Projects</div>
                 </div>
                 <div>
-                  <div className="text-3xl font-bold text-white mb-1">8</div>
+                  <div className="text-3xl font-bold text-white mb-1">3</div>
                   <div className="text-[10px] uppercase tracking-widest text-white/40 font-bold">Awards</div>
                 </div>
                 <div>

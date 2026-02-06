@@ -47,8 +47,9 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         <a href="#" className="text-xl md:text-2xl font-black tracking-tighter flex items-center space-x-2">
           <span className="w-8 h-8 md:w-10 md:h-10 bg-white text-black flex items-center justify-center rounded-sm text-lg md:text-xl font-bold">T</span>
-          <span className="font-heading lowercase">{`{TheCreationEdit}`}</span>
-        </a>
+              <span className="font-heading capitalize [word-spacing:0.5rem] md:[word-spacing:1rem]">{`{ The Creation Edit }`}</span>
+ 
+         </a>
 
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center space-x-8">
