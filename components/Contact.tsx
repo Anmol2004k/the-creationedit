@@ -53,9 +53,13 @@ const Contact: React.FC = () => {
                   <label className="text-xs uppercase tracking-widest text-white/40 font-bold">Project Type</label>
                   <select className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-4 text-white focus:outline-none focus:border-white transition-all appearance-none">
                     <option className="bg-[#050505]">Cinematic Commercial</option>
-                    <option className="bg-[#050505]">Music Video</option>
+                    <option className="bg-[#050505]">YouTube Video</option>
                     <option className="bg-[#050505]">Brand Identity Film</option>
                     <option className="bg-[#050505]">Social Content Series</option>
+                    <option className="bg-[#050505]">Brand Reels</option>
+                    <option className="bg-[#050505]">Other videos </option>
+
+
                   </select>
                 </div>
                 <div className="space-y-2">

@@ -37,8 +37,8 @@ const About: React.FC = () => {
               
               <div className="mt-12 grid grid-cols-3 gap-8 pt-12 border-t border-white/10">
                 <div>
-                  <div className="text-3xl font-bold text-white mb-1">150+</div>
-                  <div className="text-[10px] uppercase tracking-widest text-white/40 font-bold">Films</div>
+                  <div className="text-3xl font-bold text-white mb-1">50+</div>
+                  <div className="text-[10px] uppercase tracking-widest text-white/40 font-bold">Projects</div>
                 </div>
                 <div>
                   <div className="text-3xl font-bold text-white mb-1">8</div>
