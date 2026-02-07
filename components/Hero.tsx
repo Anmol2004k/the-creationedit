@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
           className="text-4xl sm:text-6xl md:text-8xl lg:text-[9rem] font-black tracking-tighter leading-[1] md:leading-[0.9] font-heading mb-6 md:mb-8"
         >
           CINEMATIC <br />
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-white/50 to-white/20">STORYTELLING</span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-white/50 to-white/20">EDIT-WITH-AI</span>
         </motion.h1>
 
         {/* Paragraph - Text alignment aur width fix ki */}

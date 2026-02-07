@@ -10,7 +10,7 @@ const Portfolio: React.FC = () => {
       <div className="container mx-auto px-6">
         <MotionWrapper className="mb-16">
           <span className="text-sm uppercase tracking-widest text-white/40 font-bold mb-4 block">Portfolio</span>
-          <h2 className="text-5xl md:text-7xl font-black font-heading mb-6 tracking-tighter">SELECTED WORKS</h2>
+          <h2 className="text-5xl md:text-7xl font-black font-heading mb-6 tracking-tighter">OUR WORKS</h2>
         </MotionWrapper>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
