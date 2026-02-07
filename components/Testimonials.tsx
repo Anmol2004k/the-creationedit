@@ -9,7 +9,7 @@ const Testimonials: React.FC = () => {
       <div className="container mx-auto px-6">
         <MotionWrapper className="text-center mb-16">
           <span className="text-sm uppercase tracking-widest text-white/40 font-bold mb-4 block">Trust</span>
-          <h2 className="text-4xl md:text-5xl font-black font-heading tracking-tighter">WHAT THEY SAY</h2>
+          <h2 className="text-4xl md:text-5xl font-black font-heading tracking-tighter">WHAT CLIENTS SAY</h2>
         </MotionWrapper>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -25,6 +25,19 @@ export const SERVICES: Service[] = [
     title: 'Sound Design',
     description: 'Immersive soundscapes and clean audio mixing that complete the visual experience.',
     icon: '🔊'
+  },
+
+  {
+    id: '5',
+    title: 'Cinematic Editing',
+    description: 'We turn raw footage into compelling stories with industry-leading pacing and emotional depth.',
+    icon: '🎉'
+  },
+  {
+    id: '6',
+    title: 'Cinematic Editing',
+    description: 'We turn raw footage into compelling stories with industry-leading pacing and emotional depth.',
+    icon: '❣️'
   }
 ];
 

@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
           className="inline-flex items-center px-3 py-1 md:px-4 md:py-1.5 rounded-full bg-white/5 border border-white/10 mb-6 md:mb-8"
         >
           <span className="w-2 h-2 rounded-full bg-green-400 mr-2 animate-pulse"></span>
-          <span className="text-[10px] md:text-xs font-medium uppercase tracking-widest text-white/60">Currently Accepting Projects</span>
+          <span className="text-[10px] md:text-xs font-medium uppercase tracking-widest text-white/60">Crafting Stories Frame by Frame </span>
         </motion.div>
 
         {/* Heading - Mobile (text-4xl), Tablet (text-7xl), Desktop (text-8xl+) */}

@@ -58,7 +58,7 @@ const Portfolio: React.FC = () => {
         <div className="mt-20 flex justify-center">
             <MotionWrapper>
                 <button className="px-12 py-5 bg-transparent border border-white/10 rounded-full text-sm font-bold tracking-widest uppercase hover:bg-white hover:text-black transition-all duration-500">
-                    View Archive
+                    View More
                 </button>
             </MotionWrapper>
         </div>
