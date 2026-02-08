@@ -2,42 +2,29 @@
 import { Service, Project, Testimonial, PricingPlan } from './types';
 
 export const SERVICES: Service[] = [
-  {
+      {
     id: '1',
-    title: 'Cinematic Editing',
-    description: 'We turn raw footage into compelling stories with industry-leading pacing and emotional depth.',
-    icon: '🎬'
+    title: 'Videos',
+    description: 'Specializing in cinematic long-form YouTube narratives and high-conversion short-form content like Reels and Youtube Shorts.',
+    icon: 'Video'
   },
   {
     id: '2',
-    title: 'Motion Design',
-    description: 'Bespoke 2D/3D animations that elevate your brand narrative and keep viewers engaged.',
-    icon: '✨'
+    title: 'Podcast & Highlights',
+    description: 'Expert editing for podcast series and high-energy highlight reels for large-scale events and functions.',
+    icon: 'Mic'
   },
   {
     id: '3',
-    title: 'Precision Color',
-    description: 'Expert color grading to create specific moods, consistency, and a high-end filmic look.',
-    icon: '🎨'
+    title: 'Graphics Designing',
+    description: 'Design solutions for social media posts, high-CTR thumbnails, and professional logos that define your brand.',
+    icon: 'Palette'
   },
   {
     id: '4',
-    title: 'Sound Design',
-    description: 'Immersive soundscapes and clean audio mixing that complete the visual experience.',
-    icon: '🔊'
-  },
-
-  {
-    id: '5',
-    title: 'Cinematic Editing',
-    description: 'We turn raw footage into compelling stories with industry-leading pacing and emotional depth.',
-    icon: '🎉'
-  },
-  {
-    id: '6',
-    title: 'Cinematic Editing',
-    description: 'We turn raw footage into compelling stories with industry-leading pacing and emotional depth.',
-    icon: '❣️'
+    title: 'Personalized Solutions',
+    description: 'Fully customized post-production services tailored to meet unique project requirements and individual client goals.',
+    icon: 'Wrench'
   }
 ];
 
@@ -97,19 +84,19 @@ export const SERVICES: Service[] = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: '1',
-    name: 'Sarah Chen',
+    name: 'Sardha Patel',
     role: 'Creative Director',
-    company: 'Visionary Lab',
-    content: 'LUMOS transformed our vision into something better than we imagined. Their attention to detail in the final cut was astonishing.',
-    avatar: 'https://picsum.photos/seed/sarah/200/200'
+    company: 'Private Company',
+    content: 'The Creation Edit transformed our vision into something better than we imagined. Their attention to detail in the final cut was astonishing.',
+    avatar: 'https://picsum.photos/seed/sardha/200/200'
   },
   {
     id: '2',
-    name: 'Marcus Thorne',
-    role: 'Head of Marketing',
-    company: 'Peak Performance',
+    name: 'manish Kumar',
+    role: 'Founder & CEO',
+    company: 'Private firm',
     content: 'The turnaround speed combined with the premium quality of motion graphics is what sets this agency apart from the rest.',
-    avatar: 'https://picsum.photos/seed/marcus/200/200'
+    avatar: 'https://picsum.photos/seed/manish/200/200'
   }
 ];
 
