@@ -13,7 +13,7 @@ const About: React.FC = () => {
                 <img 
                   src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&q=80&w=1200" 
                   alt="Creative Studio" 
-                  className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
+                  className="w-full h-full object-cover transition-all duration-1000"
                 />
               </div>
               <div className="absolute -bottom-10 -right-10 w-48 h-48 bg-white text-black p-8 rounded-full flex items-center justify-center text-center font-bold text-sm z-20 transform -rotate-12 border-8 border-[#050505]">
