@@ -13,6 +13,8 @@ export interface Project {
   imageUrl: string;
   videoUrl?: string;
   client: string;
+ videoEmbedId?: string; 
+
 }
 
 export interface Testimonial {

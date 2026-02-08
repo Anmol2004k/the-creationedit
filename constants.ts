@@ -41,34 +41,56 @@ export const SERVICES: Service[] = [
   }
 ];
 
-export const PORTFOLIO: Project[] = [
+ export const PORTFOLIO: Project[] = [
+
   {
     id: '1',
-    title: 'The Modern Nomad',
-    category: 'Commercial',
-    imageUrl: 'https://picsum.photos/seed/nomad/1200/800',
-    client: 'Stellar Gear'
+    title: 'USANA-RAJSTHAN-HIGHLIGHT',
+    category: 'Event-Heighlights',
+    imageUrl: "https://img.youtube.com/vi/Duoe9BWAI2Y/maxresdefault.jpg",
+    videoEmbedId: "Duoe9BWAI2Y",
+    client: 'The USANA Foundation'
   },
   {
     id: '2',
-    title: 'Velocity 2025',
-    category: 'Brand Film',
-    imageUrl: 'https://picsum.photos/seed/car/1200/800',
-    client: 'Nexus Automotive'
+    title: 'ARP Final Project',
+    category: 'Event-Heighlights',
+    imageUrl: "https://img.youtube.com/vi/Zdn_fjtR1Z4/maxresdefault.jpg",
+    videoEmbedId: "Zdn_fjtR1Z4",
+    client: 'Vestige Corporation'
   },
-  {
+    {
     id: '3',
-    title: 'Urban Rhythm',
-    category: 'Music Video',
-    imageUrl: 'https://picsum.photos/seed/music/1200/800',
-    client: 'Aria Records'
+    title: 'Podcast Bussiness',
+    category: 'Prmotion-Podcast',
+    imageUrl: "https://img.youtube.com/vi/AJA1XiW51MA/maxresdefault.jpg",
+    videoEmbedId: 'AJA1XiW51MA',
+    client: 'ZEE-PODCAST'
   },
   {
     id: '4',
-    title: 'Silicon Minds',
-    category: 'Documentary',
-    imageUrl: 'https://picsum.photos/seed/tech/1200/800',
-    client: 'Future Corp'
+    title: 'Podcast-Sprituality',
+    category: 'Ancient-India',
+    imageUrl: "https://img.youtube.com/vi/Sg8DFEfW8WU/maxresdefault.jpg",
+    videoEmbedId: "Sg8DFEfW8WU",
+    client: 'Shree Jagannath ji Tempel'
+
+  },
+  {
+    id: '5',
+    title: 'Cinematic-Video',
+    category: 'Short Film',
+    imageUrl: "https://img.youtube.com/vi/1wpPFN3fDKI/maxresdefault.jpg",
+    videoEmbedId: "1wpPFN3fDKI",
+    client: 'R-Homes Interprises'
+  },
+  {
+    id: '6',
+    title: 'Cinematic-Video',
+    category: 'Celebrity-Brand',
+    imageUrl: "https://img.youtube.com/vi/65M1JdneTfQ/maxresdefault.jpg",
+    videoEmbedId: "65M1JdneTfQ",
+    client: 'Vestige Corporation'
   }
 ];
 
