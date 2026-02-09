@@ -17,7 +17,7 @@ const About: React.FC = () => {
                 />
               </div>
               <div className="absolute -bottom-10 -right-10 w-48 h-48 bg-white text-black p-8 rounded-full flex items-center justify-center text-center font-bold text-sm z-20 transform -rotate-12 border-8 border-[#050505]">
-                SINCE <br /> 2021
+                SINCE <br /> 2023
               </div>
             </MotionWrapper>
           </div>
