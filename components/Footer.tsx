@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
           <div>
             <a href="#" className="text-3xl font-black tracking-tighter flex items-center space-x-3 mb-6">
               <span className="w-10 h-10 bg-white text-black flex items-center justify-center rounded-sm text-xl font-bold">T</span>
-              <span className="font-heading [word-spacing:0.5rem] md:[word-spacing:1rem]">{`{`}<span className="capitalize">The Creation Edit</span>{`}`}</span>
+              <span className="font-heading [word-spacing:0.5rem] md:[word-spacing:1rem]"><span className="capitalize">The Creation Edit</span></span>
 
 
  

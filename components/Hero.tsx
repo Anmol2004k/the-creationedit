@@ -33,10 +33,10 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8 }}
           className="text-3xl sm:text-5xl md:text-7xl lg:text-[8rem] font-black tracking-tight leading-tight font-heading mb-5"
         >
-          Your Vision.
+            CINEMATIC EDITS
           <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-white/70 to-white/30">
-            Perfectly Edited.
+            FOR MODERN BRANDS.
           </span>
         </motion.h1>
 
