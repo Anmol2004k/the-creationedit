@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Crawl delay optional
+Crawl-delay: 5
+
+Sitemap: https://thecreationedit.com/sitemap.xml
