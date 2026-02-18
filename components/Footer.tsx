@@ -103,13 +103,24 @@ const Footer: React.FC = () => {
           </div>
         </div>
 
-        <div className="mt-20 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-[10px] uppercase tracking-[0.2em] font-bold text-white/20">
-          <p>© 2025 {`THECREATIONEDIT`}. ALL RIGHTS RESERVED.</p>
-          <div className="mt-4 md:mt-0 space-x-8">
-            <a href="#" className="hover:text-white/40">Privacy Policy</a>
-            <a href="#" className="hover:text-white/40">Terms of Service</a>
-          </div>
-        </div>
+ <div className="mt-20 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-[10px] uppercase tracking-[0.2em] font-bold text-white/20">
+  <p>© 2026 {`THECREATIONEDIT`}. ALL RIGHTS RESERVED.</p>
+  
+  <div className="mt-4 md:mt-0 flex flex-wrap justify-center gap-x-8 gap-y-2">
+    <a href="#" className="hover:text-white/40 transition-colors">Privacy Policy</a>
+    <a href="#" className="hover:text-white/40 transition-colors">Terms of Service</a>
+    
+    {/* Build by Anmol integration */}
+    <a 
+      href="https://anmolkumar.in" 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      className="hover:text-white/40 transition-colors"
+    >
+      Build by Anmol
+    </a>
+  </div>
+</div>
       </div>
     </footer>
   );
