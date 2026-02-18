@@ -36,7 +36,7 @@ const Hero: React.FC = () => {
             CINEMATIC EDITS
           <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-white/70 to-white/30">
-            FOR MODERN BRANDS.
+            FOR MODERN BRANDS
           </span>
         </motion.h1>
 
