@@ -6,7 +6,7 @@ import Services from './components/Services';
 import Portfolio from './components/Portfolio';
 import About from './components/About';
 import Testimonials from './components/Testimonials';
-import Pricing from './components/Pricing';
+// import Pricing from './components/Pricing';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import FloatingWhatsApp from './components/FloatingWhatsApp';
@@ -106,7 +106,7 @@ function App() {
         <Services />
         <About />
         <Testimonials />
-        <Pricing />
+        {/* <Pricing /> */}
         <Contact />
       </main>
       <Footer />
